@@ -27,7 +27,7 @@ server <- function(input, output, session) {
     if(input$gba_skew=='Horizontal Skew'){
       dat_dir = 'web/has/'
       html_file = file.path(dat_dir, 'index.html')
-      #html_file = 'http://conxz.net/'
+      #html_file = 'http://conxz.net/gbaphewas/web/has/index.html'
     }else{
       dat_dir = 'web/vas/'
       html_file = file.path(dat_dir, 'index.html')
