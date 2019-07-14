@@ -1,0 +1,346 @@
+Field ID,Description,Category,N,beta,p
+25877,Volume of grey matter in Occipital Pole (right),T1 structural brain MRI,21389,-0.047759113,7.45E-15
+25876,Volume of grey matter in Occipital Pole (left),T1 structural brain MRI,21389,0.041575747,5.01E-11
+25858,Volume of grey matter in Temporal Occipital Fusiform Cortex (left),T1 structural brain MRI,21389,0.039614022,1.02E-09
+25856,"Volume of grey matter in Temporal Fusiform Cortex, posterior division (left)",T1 structural brain MRI,21389,0.029877249,1.35E-06
+25848,"Volume of grey matter in Parahippocampal Gyrus, anterior division (left)",T1 structural brain MRI,21389,0.029681947,1.70E-06
+25859,Volume of grey matter in Temporal Occipital Fusiform Cortex (right),T1 structural brain MRI,21389,-0.028314915,7.26E-06
+25070,Mean FA in cerebral peduncle on FA skeleton (right),Diffusion brain MRI,19385,0.081169846,6.90E-34
+25074,Mean FA in posterior limb of internal capsule on FA skeleton (right),Diffusion brain MRI,19385,0.066805613,7.14E-21
+25075,Mean FA in posterior limb of internal capsule on FA skeleton (left),Diffusion brain MRI,19385,-0.065909314,8.17E-21
+25071,Mean FA in cerebral peduncle on FA skeleton (left),Diffusion brain MRI,19385,-0.057915359,1.33E-18
+25072,Mean FA in anterior limb of internal capsule on FA skeleton (right),Diffusion brain MRI,19385,0.061290217,2.40E-18
+25066,Mean FA in inferior cerebellar peduncle on FA skeleton (right),Diffusion brain MRI,19385,0.05821676,2.48E-17
+25078,Mean FA in anterior corona radiata on FA skeleton (right),Diffusion brain MRI,19385,0.055004452,1.88E-16
+25093,Mean FA in cingulum hippocampus on FA skeleton (left),Diffusion brain MRI,19385,0.049086527,3.19E-12
+25082,Mean FA in posterior corona radiata on FA skeleton (right),Diffusion brain MRI,19385,-0.045831737,1.82E-10
+25083,Mean FA in posterior corona radiata on FA skeleton (left),Diffusion brain MRI,19385,0.044055195,5.10E-10
+25097,Mean FA in superior longitudinal fasciculus on FA skeleton (left),Diffusion brain MRI,19385,0.040754061,8.46E-09
+25067,Mean FA in inferior cerebellar peduncle on FA skeleton (left),Diffusion brain MRI,19385,-0.036922849,7.18E-08
+25089,Mean FA in external capsule on FA skeleton (left),Diffusion brain MRI,19385,0.03613173,7.57E-08
+25101,Mean FA in uncinate fasciculus on FA skeleton (left),Diffusion brain MRI,19385,0.038062054,9.87E-08
+25064,Mean FA in medial lemniscus on FA skeleton (right),Diffusion brain MRI,19385,0.03595903,1.61E-07
+25100,Mean FA in uncinate fasciculus on FA skeleton (right),Diffusion brain MRI,19385,-0.035521726,6.24E-07
+25092,Mean FA in cingulum hippocampus on FA skeleton (right),Diffusion brain MRI,19385,-0.034430127,9.40E-07
+25087,Mean FA in sagittal stratum on FA skeleton (left),Diffusion brain MRI,19385,0.03443748,1.08E-06
+25073,Mean FA in anterior limb of internal capsule on FA skeleton (left),Diffusion brain MRI,19385,-0.032945181,2.55E-06
+25103,Mean FA in tapetum on FA skeleton (left),Diffusion brain MRI,19385,0.033125631,3.48E-06
+25359,Mean ICVF in cerebral peduncle on FA skeleton (left),Diffusion brain MRI,19385,0.053954564,3.09E-14
+25386,Mean ICVF in superior fronto-occipital fasciculus on FA skeleton (right),Diffusion brain MRI,19385,0.028050616,1.38E-05
+25454,Mean ISOVF in cerebral peduncle on FA skeleton (right),Diffusion brain MRI,19385,0.044114775,5.74E-12
+25471,Mean ISOVF in sagittal stratum on FA skeleton (left),Diffusion brain MRI,19385,-0.040730291,3.31E-09
+25470,Mean ISOVF in sagittal stratum on FA skeleton (right),Diffusion brain MRI,19385,0.039171496,6.27E-09
+25452,Mean ISOVF in superior cerebellar peduncle on FA skeleton (right),Diffusion brain MRI,19385,-0.032190103,1.36E-06
+25214,Mean L1 in cerebral peduncle on FA skeleton (right),Diffusion brain MRI,19385,0.134525337,2.39E-93
+25215,Mean L1 in cerebral peduncle on FA skeleton (left),Diffusion brain MRI,19385,-0.106613646,4.91E-56
+25210,Mean L1 in inferior cerebellar peduncle on FA skeleton (right),Diffusion brain MRI,19385,0.059949007,1.45E-21
+25216,Mean L1 in anterior limb of internal capsule on FA skeleton (right),Diffusion brain MRI,19385,0.059431638,7.50E-21
+25219,Mean L1 in posterior limb of internal capsule on FA skeleton (left),Diffusion brain MRI,19385,-0.064600846,1.84E-20
+25218,Mean L1 in posterior limb of internal capsule on FA skeleton (right),Diffusion brain MRI,19385,0.052992916,3.19E-14
+25223,Mean L1 in anterior corona radiata on FA skeleton (left),Diffusion brain MRI,19385,-0.045753345,1.86E-11
+25226,Mean L1 in posterior corona radiata on FA skeleton (right),Diffusion brain MRI,19385,-0.039333445,3.80E-10
+25230,Mean L1 in sagittal stratum on FA skeleton (right),Diffusion brain MRI,19385,0.039312016,7.76E-10
+25222,Mean L1 in anterior corona radiata on FA skeleton (right),Diffusion brain MRI,19385,0.040254135,2.89E-09
+25220,Mean L1 in retrolenticular part of internal capsule on FA skeleton (right),Diffusion brain MRI,19385,0.039789127,3.22E-09
+25246,Mean L1 in tapetum on FA skeleton (right),Diffusion brain MRI,19385,-0.035423868,2.07E-07
+25211,Mean L1 in inferior cerebellar peduncle on FA skeleton (left),Diffusion brain MRI,19385,-0.034623792,4.53E-07
+25217,Mean L1 in anterior limb of internal capsule on FA skeleton (left),Diffusion brain MRI,19385,-0.032569827,6.71E-07
+25236,Mean L1 in cingulum hippocampus on FA skeleton (right),Diffusion brain MRI,19385,-0.029447231,1.29E-05
+25247,Mean L1 in tapetum on FA skeleton (left),Diffusion brain MRI,19385,0.029844599,1.40E-05
+25258,Mean L2 in inferior cerebellar peduncle on FA skeleton (right),Diffusion brain MRI,19385,-0.068134957,8.50E-23
+25270,Mean L2 in anterior corona radiata on FA skeleton (right),Diffusion brain MRI,19385,-0.044926294,4.79E-12
+25259,Mean L2 in inferior cerebellar peduncle on FA skeleton (left),Diffusion brain MRI,19385,0.045932576,2.57E-11
+25267,Mean L2 in posterior limb of internal capsule on FA skeleton (left),Diffusion brain MRI,19385,0.044795559,2.31E-10
+25264,Mean L2 in anterior limb of internal capsule on FA skeleton (right),Diffusion brain MRI,19385,-0.044522831,2.81E-10
+25265,Mean L2 in anterior limb of internal capsule on FA skeleton (left),Diffusion brain MRI,19385,0.04230102,1.97E-09
+25263,Mean L2 in cerebral peduncle on FA skeleton (left),Diffusion brain MRI,19385,0.039379958,2.11E-09
+25266,Mean L2 in posterior limb of internal capsule on FA skeleton (right),Diffusion brain MRI,19385,-0.042880822,2.63E-09
+25262,Mean L2 in cerebral peduncle on FA skeleton (right),Diffusion brain MRI,19385,-0.035154425,8.00E-08
+25292,Mean L2 in uncinate fasciculus on FA skeleton (right),Diffusion brain MRI,19385,0.032961901,1.83E-06
+25256,Mean L2 in medial lemniscus on FA skeleton (right),Diffusion brain MRI,19385,-0.031968974,5.25E-06
+25327,Mean L3 in sagittal stratum on FA skeleton (left),Diffusion brain MRI,19385,-0.042394613,3.30E-10
+25314,Mean L3 in posterior limb of internal capsule on FA skeleton (right),Diffusion brain MRI,19385,-0.042967156,4.28E-10
+25333,Mean L3 in cingulum hippocampus on FA skeleton (left),Diffusion brain MRI,19385,-0.043142669,1.16E-09
+25325,Mean L3 in posterior thalamic radiation on FA skeleton (left),Diffusion brain MRI,19385,-0.036003661,7.10E-08
+25341,Mean L3 in uncinate fasciculus on FA skeleton (left),Diffusion brain MRI,19385,-0.035453271,8.80E-08
+25308,Mean L3 in superior cerebellar peduncle on FA skeleton (right),Diffusion brain MRI,19385,-0.035405848,6.05E-07
+25315,Mean L3 in posterior limb of internal capsule on FA skeleton (left),Diffusion brain MRI,19385,0.030893303,2.81E-06
+25337,Mean L3 in superior longitudinal fasciculus on FA skeleton (left),Diffusion brain MRI,19385,-0.029485861,1.83E-05
+25118,Mean MD in cerebral peduncle on FA skeleton (right),Diffusion brain MRI,19385,0.067066526,6.57E-26
+25119,Mean MD in cerebral peduncle on FA skeleton (left),Diffusion brain MRI,19385,-0.051976783,2.13E-15
+25116,Mean MD in superior cerebellar peduncle on FA skeleton (right),Diffusion brain MRI,19385,-0.033420022,1.18E-07
+25135,Mean MD in sagittal stratum on FA skeleton (left),Diffusion brain MRI,19385,-0.032116741,7.43E-07
+25162,Mean MO in inferior cerebellar peduncle on FA skeleton (right),Diffusion brain MRI,19385,0.097648474,1.30E-48
+25166,Mean MO in cerebral peduncle on FA skeleton (right),Diffusion brain MRI,19385,0.098790587,8.12E-44
+25167,Mean MO in cerebral peduncle on FA skeleton (left),Diffusion brain MRI,19385,-0.093894045,1.44E-40
+25175,Mean MO in anterior corona radiata on FA skeleton (left),Diffusion brain MRI,19385,-0.084273657,3.94E-32
+25174,Mean MO in anterior corona radiata on FA skeleton (right),Diffusion brain MRI,19385,0.077656879,2.07E-27
+25169,Mean MO in anterior limb of internal capsule on FA skeleton (left),Diffusion brain MRI,19385,-0.063248678,3.91E-21
+25163,Mean MO in inferior cerebellar peduncle on FA skeleton (left),Diffusion brain MRI,19385,-0.062728367,8.32E-20
+25172,Mean MO in retrolenticular part of internal capsule on FA skeleton (right),Diffusion brain MRI,19385,0.065093232,8.94E-20
+25168,Mean MO in anterior limb of internal capsule on FA skeleton (right),Diffusion brain MRI,19385,0.056465751,8.05E-18
+25192,Mean MO in superior longitudinal fasciculus on FA skeleton (right),Diffusion brain MRI,19385,-0.055002859,3.89E-15
+25178,Mean MO in posterior corona radiata on FA skeleton (right),Diffusion brain MRI,19385,-0.052696388,9.10E-15
+25171,Mean MO in posterior limb of internal capsule on FA skeleton (left),Diffusion brain MRI,19385,-0.050516851,1.58E-12
+25157,Mean MO in fornix on FA skeleton,Diffusion brain MRI,19385,-0.045812618,3.96E-11
+25182,Mean MO in sagittal stratum on FA skeleton (right),Diffusion brain MRI,19385,0.044619074,3.07E-10
+25181,Mean MO in posterior thalamic radiation on FA skeleton (left),Diffusion brain MRI,19385,-0.039825823,1.96E-08
+25170,Mean MO in posterior limb of internal capsule on FA skeleton (right),Diffusion brain MRI,19385,0.040204527,2.01E-08
+25191,Mean MO in fornix cres+stria terminalis on FA skeleton (left),Diffusion brain MRI,19385,0.037443543,3.63E-08
+25165,Mean MO in superior cerebellar peduncle on FA skeleton (left),Diffusion brain MRI,19385,0.038433179,7.37E-08
+25199,Mean MO in tapetum on FA skeleton (left),Diffusion brain MRI,19385,0.033554523,1.00E-06
+25198,Mean MO in tapetum on FA skeleton (right),Diffusion brain MRI,19385,-0.034185036,1.38E-06
+25196,Mean MO in uncinate fasciculus on FA skeleton (right),Diffusion brain MRI,19385,-0.03265903,5.52E-06
+25406,Mean OD in cerebral peduncle on FA skeleton (right),Diffusion brain MRI,19385,-0.132600117,3.56E-83
+25407,Mean OD in cerebral peduncle on FA skeleton (left),Diffusion brain MRI,19385,0.124620442,4.14E-73
+25402,Mean OD in inferior cerebellar peduncle on FA skeleton (right),Diffusion brain MRI,19385,-0.074618409,3.27E-30
+25408,Mean OD in anterior limb of internal capsule on FA skeleton (right),Diffusion brain MRI,19385,-0.081359998,3.76E-30
+25414,Mean OD in anterior corona radiata on FA skeleton (right),Diffusion brain MRI,19385,-0.079864314,1.11E-28
+25411,Mean OD in posterior limb of internal capsule on FA skeleton (left),Diffusion brain MRI,19385,0.074321331,3.47E-25
+25415,Mean OD in anterior corona radiata on FA skeleton (left),Diffusion brain MRI,19385,0.063458169,4.30E-19
+25418,Mean OD in posterior corona radiata on FA skeleton (right),Diffusion brain MRI,19385,0.057832335,1.11E-17
+25403,Mean OD in inferior cerebellar peduncle on FA skeleton (left),Diffusion brain MRI,19385,0.055697367,9.46E-17
+25410,Mean OD in posterior limb of internal capsule on FA skeleton (right),Diffusion brain MRI,19385,-0.057603984,5.41E-16
+25439,Mean OD in tapetum on FA skeleton (left),Diffusion brain MRI,19385,-0.055063616,4.75E-15
+25412,Mean OD in retrolenticular part of internal capsule on FA skeleton (right),Diffusion brain MRI,19385,-0.051078364,2.23E-13
+25438,Mean OD in tapetum on FA skeleton (right),Diffusion brain MRI,19385,0.046327451,1.06E-10
+25432,Mean OD in superior longitudinal fasciculus on FA skeleton (right),Diffusion brain MRI,19385,0.043623336,4.99E-10
+25405,Mean OD in superior cerebellar peduncle on FA skeleton (left),Diffusion brain MRI,19385,-0.04173918,8.71E-10
+25433,Mean OD in superior longitudinal fasciculus on FA skeleton (left),Diffusion brain MRI,19385,-0.041345324,4.83E-09
+25399,Mean OD in corticospinal tract on FA skeleton (left),Diffusion brain MRI,19385,0.039953449,1.81E-08
+25400,Mean OD in medial lemniscus on FA skeleton (right),Diffusion brain MRI,19385,-0.038467618,5.15E-08
+25428,Mean OD in cingulum hippocampus on FA skeleton (right),Diffusion brain MRI,19385,0.037414857,5.17E-08
+25398,Mean OD in corticospinal tract on FA skeleton (right),Diffusion brain MRI,19385,-0.036110384,2.92E-07
+25409,Mean OD in anterior limb of internal capsule on FA skeleton (left),Diffusion brain MRI,19385,0.036706755,2.95E-07
+25404,Mean OD in superior cerebellar peduncle on FA skeleton (right),Diffusion brain MRI,19385,0.032541215,1.09E-06
+25401,Mean OD in medial lemniscus on FA skeleton (left),Diffusion brain MRI,19385,0.034369822,1.43E-06
+25425,Mean OD in external capsule on FA skeleton (left),Diffusion brain MRI,19385,-0.031077526,1.17E-05
+25506,Weighted-mean FA in tract medial lemniscus (right),Diffusion brain MRI,19385,0.088238375,7.88E-36
+25505,Weighted-mean FA in tract medial lemniscus (left),Diffusion brain MRI,19385,-0.087518667,1.95E-35
+25494,Weighted-mean FA in tract parahippocampal part of cingulum (left),Diffusion brain MRI,19385,0.052927975,2.50E-14
+25514,Weighted-mean FA in tract uncinate fasciculus (right),Diffusion brain MRI,19385,-0.04165889,1.96E-09
+25513,Weighted-mean FA in tract uncinate fasciculus (left),Diffusion brain MRI,19385,0.038146083,2.77E-08
+25509,Weighted-mean FA in tract superior longitudinal fasciculus (left),Diffusion brain MRI,19385,0.035644538,2.66E-07
+25500,Weighted-mean FA in tract inferior fronto-occipital fasciculus (left),Diffusion brain MRI,19385,0.03563071,3.28E-07
+25495,Weighted-mean FA in tract parahippocampal part of cingulum (right),Diffusion brain MRI,19385,-0.03379163,1.11E-06
+25502,Weighted-mean FA in tract inferior longitudinal fasciculus (left),Diffusion brain MRI,19385,0.031867809,3.87E-06
+25491,Weighted-mean FA in tract anterior thalamic radiation (right),Diffusion brain MRI,19385,0.031519307,6.30E-06
+25669,Weighted-mean ICVF in tract posterior thalamic radiation (left),Diffusion brain MRI,19385,0.030287774,1.01E-05
+25721,Weighted-mean ISOVF in tract medial lemniscus (left),Diffusion brain MRI,19385,0.044150053,1.07E-10
+25717,Weighted-mean ISOVF in tract inferior fronto-occipital fasciculus (right),Diffusion brain MRI,19385,0.033907809,1.02E-06
+25724,Weighted-mean ISOVF in tract posterior thalamic radiation (right),Diffusion brain MRI,19385,0.031540238,1.18E-06
+25578,Weighted-mean L1 in tract corticospinal tract (right),Diffusion brain MRI,19385,0.044484478,1.40E-10
+25589,Weighted-mean L1 in tract posterior thalamic radiation (right),Diffusion brain MRI,19385,0.035684068,2.76E-08
+25584,Weighted-mean L1 in tract inferior longitudinal fasciculus (right),Diffusion brain MRI,19385,0.031580559,1.33E-06
+25588,Weighted-mean L1 in tract posterior thalamic radiation (left),Diffusion brain MRI,19385,-0.029453159,4.04E-06
+25613,Weighted-mean L2 in tract medial lemniscus (left),Diffusion brain MRI,19385,0.057213353,8.45E-17
+25614,Weighted-mean L2 in tract medial lemniscus (right),Diffusion brain MRI,19385,-0.047268713,5.55E-12
+25615,Weighted-mean L2 in tract posterior thalamic radiation (left),Diffusion brain MRI,19385,-0.036360016,2.13E-08
+25619,Weighted-mean L2 in tract superior thalamic radiation (left),Diffusion brain MRI,19385,-0.030198132,3.67E-06
+25604,Weighted-mean L2 in tract corticospinal tract (left),Diffusion brain MRI,19385,0.030778984,1.66E-05
+25640,Weighted-mean L3 in tract medial lemniscus (left),Diffusion brain MRI,19385,0.059500832,7.74E-18
+25641,Weighted-mean L3 in tract medial lemniscus (right),Diffusion brain MRI,19385,-0.048623788,1.31E-12
+25637,Weighted-mean L3 in tract inferior longitudinal fasciculus (left),Diffusion brain MRI,19385,-0.041477115,4.70E-10
+25642,Weighted-mean L3 in tract posterior thalamic radiation (left),Diffusion brain MRI,19385,-0.039394663,1.82E-09
+25635,Weighted-mean L3 in tract inferior fronto-occipital fasciculus (left),Diffusion brain MRI,19385,-0.039956328,3.56E-09
+25644,Weighted-mean L3 in tract superior longitudinal fasciculus (left),Diffusion brain MRI,19385,-0.034948728,3.51E-07
+25532,Weighted-mean MD in tract medial lemniscus (left),Diffusion brain MRI,19385,0.045926384,4.30E-11
+25534,Weighted-mean MD in tract posterior thalamic radiation (left),Diffusion brain MRI,19385,-0.037246647,5.99E-09
+25529,Weighted-mean MD in tract inferior longitudinal fasciculus (left),Diffusion brain MRI,19385,-0.031377576,1.26E-06
+25535,Weighted-mean MD in tract posterior thalamic radiation (right),Diffusion brain MRI,19385,0.028142699,1.32E-05
+25560,Weighted-mean MO in tract medial lemniscus (right),Diffusion brain MRI,19385,0.093202522,2.38E-38
+25559,Weighted-mean MO in tract medial lemniscus (left),Diffusion brain MRI,19385,-0.060813956,2.26E-18
+25557,Weighted-mean MO in tract inferior longitudinal fasciculus (right),Diffusion brain MRI,19385,0.053496551,1.17E-14
+25564,Weighted-mean MO in tract superior longitudinal fasciculus (right),Diffusion brain MRI,19385,-0.049726563,6.83E-13
+25568,Weighted-mean MO in tract uncinate fasciculus (right),Diffusion brain MRI,19385,-0.049966606,3.35E-12
+25566,Weighted-mean MO in tract superior thalamic radiation (right),Diffusion brain MRI,19385,-0.036989423,3.99E-08
+25556,Weighted-mean MO in tract inferior longitudinal fasciculus (left),Diffusion brain MRI,19385,-0.035154971,4.69E-07
+25695,Weighted-mean OD in tract medial lemniscus (right),Diffusion brain MRI,19385,-0.112289179,1.52E-58
+25694,Weighted-mean OD in tract medial lemniscus (left),Diffusion brain MRI,19385,0.105599806,9.19E-50
+25703,Weighted-mean OD in tract uncinate fasciculus (right),Diffusion brain MRI,19385,0.052184724,3.97E-14
+25683,Weighted-mean OD in tract parahippocampal part of cingulum (left),Diffusion brain MRI,19385,-0.037165751,1.82E-08
+25684,Weighted-mean OD in tract parahippocampal part of cingulum (right),Diffusion brain MRI,19385,0.03319127,3.30E-07
+25702,Weighted-mean OD in tract uncinate fasciculus (left),Diffusion brain MRI,19385,-0.031654474,7.41E-06
+25680,Weighted-mean OD in tract anterior thalamic radiation (right),Diffusion brain MRI,19385,-0.030512691,7.82E-06
+25698,Weighted-mean OD in tract superior longitudinal fasciculus (left),Diffusion brain MRI,19385,-0.028324203,1.88E-05
+25886,Volume of grey matter in Hippocampus (left),T1 structural brain MRI,21389,0.035890241,4.86E-09
+25896,Volume of grey matter in V Cerebellum (right),T1 structural brain MRI,21389,-0.033754222,2.07E-08
+25897,Volume of grey matter in VI Cerebellum (left),T1 structural brain MRI,21389,0.029169026,5.41E-07
+25902,Volume of grey matter in Crus I Cerebellum (right),T1 structural brain MRI,21389,-0.028379259,4.91E-06
+25899,Volume of grey matter in VI Cerebellum (right),T1 structural brain MRI,21389,-0.025437423,1.35E-05
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,

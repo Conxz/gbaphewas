@@ -1,0 +1,7 @@
+Field ID,Description,Category,N,beta,p
+398,Number of correct matches in round,Pairs matching - Cognitive function,21005,-0.030459692,<1.00E-155
+403,Number of times snap-button pressed,Reaction time - Cognitive function,21013,0.016151265,<1.00E-155
+4935,FI1 : numeric addition test,Fluid intelligence - Cognitive function,7517,0.081779683,<1.00E-155
+20245,Symbol digit completion status,Symbol digit substitution - Cognitive function online,11483,-0.102201359,<1.00E-155
+20131,Number of correct matches in round,Pairs matching - Cognitive function online,11383,-0.008897288,<1.00E-155
+20244,Pairs matching completion status,Pairs matching - Cognitive function online,11387,0.002096142,1.50E-35

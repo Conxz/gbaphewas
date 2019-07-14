@@ -1,0 +1,5 @@
+Field ID,Description,Category,N,beta,p
+398,Number of correct matches in round,Pairs matching - Cognitive function,21005,-0.171812516,<1.00e-155
+4935,FI1 : numeric addition test,Fluid intelligence - Cognitive function,7517,-0.005550336,<1.00e-155
+20244,Pairs matching completion status,Pairs matching - Cognitive function online,11387,-0.020545824,6.28E-116
+20131,"Number of correct matches in round, Online follow-up",Pairs matching - Cognitive function online,11383,0.006504736,4.01E-08
